@@ -488,3 +488,10 @@ ssl-cert/
 tmp/
 webapi/appsettings.Development.json
 webapi/key.json
+.vscode/
+plugins/OBO/
+plugins/web-searcher/Icons/bing.png
+tools/importdocument/sample-docs/Lorem_ipsum.pdf
+tools/importdocument/sample-docs/Microsoft-Responsible-AI-Standard-v2-General-Requirements.pdf
+tools/importdocument/sample-docs/ms10k.txt
+.editorconfig
